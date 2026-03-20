@@ -1,0 +1,18 @@
+# Discord Bot Requirements
+# Installiere mit: pip install -r requirements.txt
+
+# Haupt-Discord-Bibliothek
+discord.py>=2.3.0
+
+# Async SQLite Datenbank
+aiosqlite>=0.19.0
+
+# HTTP-Anfragen (für Fun-Befehle, APIs)
+aiohttp>=3.9.0
+
+# Music (YouTube)
+yt-dlp>=2024.1.1
+PyNaCl>=1.5.0
+
+# Optional: Für Voice-Support
+# Benötigt FFmpeg auf dem System (https://ffmpeg.org/download.html)
