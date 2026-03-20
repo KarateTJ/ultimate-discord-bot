@@ -1,0 +1,8 @@
+{
+    "token": "DEIN_BOT_TOKEN_HIER",
+    "prefix": "!",
+    "description": "Ultimate Discord Bot",
+    "owner_ids": [],
+    "status": "watching",
+    "activity": "!help | Dein Ultimate Bot"
+}
