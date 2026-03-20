@@ -1,0 +1,27 @@
+# Bot-Konfiguration (Token nicht hochladen!)
+config.json
+
+# Datenbank & Logs
+data/
+*.db
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
